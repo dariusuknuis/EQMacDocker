@@ -1,6 +1,7 @@
 [submodule "Server"]
 	path = Server
-	url = https://github.com/SecretsOTheP/EQMacEmu
+	url = https://github.com/dariusuknuis/EQMacEmu.git
+	branch = quarm-base
 [submodule "Quests"]
 	path = Quests
 	url = https://github.com/SecretsOTheP/quests
